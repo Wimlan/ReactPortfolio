@@ -1,0 +1,53 @@
+@font-face {
+  font-family: "Inter-BlackItalic";
+  src: local("Inter-BlackItalic"),
+    url("./src/assets/fonts/InterDisplay-BlackItalic.woff2") format("woff2");
+  font-weight: bold;
+}
+
+@font-face {
+  font-family: "Inter-Black";
+  src: local("Inter-Black"),
+    url("./src/assets/fonts/InterDisplay-Black.woff2") format("woff2");
+  font-weight: bold;
+}
+
+@font-face {
+  font-family: "Inter-Regular";
+  src: local("Inter-Regular"),
+    url("./src/assets/fonts/InterDisplay-Regular.woff2") format("woff2");
+  font-weight: normal;
+}
+
+@font-face {
+  font-family: "Inter-Mediumitalic";
+  src: local("Inter-Mediumitalic"),
+    url("./src/assets/fonts/InterDisplay-MediumItalic.woff2") format("woff2");
+  font-weight: normal;
+}
+
+/*Changes the site to border-box*/
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+}
+
+.background-pink {
+  background-color: #d1c1be;
+}
+
+.mobile {
+  display: none;
+}
+
+@media screen and (max-width: 820px) {
+  .desktop {
+    display: none;
+  }
+  .mobile {
+    display: block;
+  }
+}

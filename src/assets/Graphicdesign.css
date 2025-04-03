@@ -1,0 +1,104 @@
+.graphicdesign-page {
+  padding: 200px 0px 50px 0px;
+  width: 80%;
+  margin: auto;
+}
+
+.graphicdesign-page h2 {
+  left: 170px;
+  position: relative;
+  font-family: "Inter-BlackItalic";
+  text-align: left;
+  font-size: 70px;
+  color: #434343;
+  margin-bottom: 20px;
+}
+
+.graphicdesign-page a {
+  font-size: 15px;
+  background: #968480;
+  color: rgb(255, 255, 255);
+  border-radius: 10px;
+  transition: 2s;
+  padding: 3px 10px 3px 10px;
+}
+
+.graphicdesign-page a:hover {
+  transition: 1s;
+  background: #d88b79;
+}
+
+.designsection-one,
+.designsection-two {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 5vw;
+  padding: 45px 0px 45px 0px;
+}
+
+.designsection-one img,
+.designsection-two img {
+  position: relative;
+  border-radius: 50%;
+  border: solid #968480 8px;
+  width: 20rem;
+  height: 20rem;
+  object-fit: cover;
+}
+
+.design-title {
+  font-size: 30px;
+  color: #675c59;
+}
+
+.designsection-one p {
+  text-align: left;
+}
+
+.designsection-one h3 {
+  font-family: "Inter-Black";
+  text-align: left;
+  margin: 0px;
+}
+
+.designdescription {
+  font-family: "Inter-Regular";
+  color: #544c49;
+  max-width: 450px;
+}
+
+@media screen and (max-width: 1000px) {
+  .graphicdesign-page {
+    padding: 150px 0px 50px 0px;
+    width: 90%;
+    text-align: center;
+  }
+  .graphicdesign-page h2 {
+    position: static;
+    text-align: center;
+    font-size: 55px;
+    margin-bottom: 70px;
+  }
+
+  .designsection-one {
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 2vw;
+    padding: 0px 0px 0px 0px;
+  }
+
+  .designsection-two {
+    flex-direction: column-reverse;
+    gap: 2;
+    padding: 0px 0px 0px 0px;
+  }
+  .designsection-one p {
+    text-align: center;
+  }
+
+  .designsection-one h3 {
+    text-align: center;
+  }
+}

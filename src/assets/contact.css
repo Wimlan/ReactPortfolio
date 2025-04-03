@@ -1,0 +1,51 @@
+.contact-page {
+  text-align: center;
+  margin: 200px 0 200px 0;
+}
+
+.contact-page h2 {
+  font-family: "Inter-BlackItalic";
+  color: white;
+  font-size: 50px;
+  margin-bottom: 40px;
+}
+
+.contact-page h3 {
+  font-family: "Inter-Regular";
+  font-size: 20px;
+  font-weight: 100;
+  width: 300px;
+  background: #968480;
+  color: rgb(255, 255, 255);
+  border-radius: 10px;
+  padding: 3px 0 3px 0;
+  margin: auto;
+  margin-bottom: 20px;
+}
+
+.contact {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 20px;
+}
+
+.contact-page p {
+  font-family: "Inter-Mediumitalic";
+  color: #e8d8d5;
+  text-decoration: underline #968480;
+  text-underline-offset: 3px;
+  transition: 1s;
+}
+
+.contact-page p:hover {
+  color: #e8d8d5;
+  text-decoration: underline #ffffff;
+  text-underline-offset: 3px;
+  transition: 1s;
+}
+
+.email {
+  border-right: solid 2px #968480;
+  padding-right: 20px;
+}

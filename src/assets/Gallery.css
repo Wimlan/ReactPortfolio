@@ -1,0 +1,50 @@
+#gallery {
+  padding: 0 10px 0 10px;
+}
+
+/*Responsive img. Changes size with page.*/
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+.images img {
+  border-radius: 20px !important;
+  border: solid #968480 8px;
+  transition: 2s;
+}
+
+.images img:hover {
+  border: solid #d88b79 8px;
+  transition: 1s;
+}
+
+.images {
+  height: 15rem !important;
+}
+
+#gallery h2 {
+  font-family: "Inter-BlackItalic";
+  font-size: 45px;
+  text-align: center;
+  margin-top: 0;
+  color: #968480 !important;
+}
+
+.images-container {
+  margin: 0;
+  padding: 20px 0 20px 0;
+  grid-template-columns: repeat(auto-fit, minmax(12rem, 1fr)) !important;
+  gap: 2rem !important;
+  max-width: 1000px !important;
+}
+
+@media screen and (max-width: 1000px) {
+  .images {
+    height: 13rem !important;
+  }
+  .images-container {
+    width: 95%;
+    gap: 1rem !important;
+  }
+}
