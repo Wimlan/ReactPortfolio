@@ -44,11 +44,11 @@ function Webdesign() {
               Considering that the products are knitted items with the target
               user being Swedish parents, an outdoor fall and winter setting
               felt quite natural to me. Sweden is a country with long winters
-              along with often below zero degree weather. Most children play and
-              move around all day, often outside, therefore it is important to
-              show that these clothes are of good enough quality that they can
-              stand tougher conditions. Not only by text, but through pictures
-              as well. <br />
+              and below zero degree weather. Most children play and move around
+              all day, often outside, therefore it is important to show that
+              these clothes are of good enough quality that they can stand
+              tougher conditions. Not only by text, but through pictures as
+              well. <br />
               <br />
               As backed up by the User Research I conducted, it appears that
               many parents nowadays prefers more muted colors for their kids

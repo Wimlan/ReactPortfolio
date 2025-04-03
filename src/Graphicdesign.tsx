@@ -16,16 +16,16 @@ function Graphicdesign() {
             <a href="#gallery">Skip to Project Gallery</a>
             <h4>Step 1. Familiarize myself with the project/brand.</h4>
             <p>
-              The way I do this is to asking as many questions as possible. What
-              is the concept? Brand image? Target? Purpose? etc.
+              The way I do this is to ask as many questions as possible. What is
+              the concept? Brand image? Target? Purpose? etc.
             </p>
             <h4>Step 2. Key words and brand image</h4>
             <p>
               To make sure I stay on track as I design and don't deviate too
               much from the intended outcome, I like to decide about 3 keywords
               that incorporate best the feeling I want to convey.(ex. elegant,
-              calm, retro or cute, exciting, pop). If it's a larger project(such
-              as a website design) and a brand image sheet is not readily
+              calm, retro/ cute, exciting, pop). If it's a larger project(such
+              as a website design) and a brand image sheet is not already
               available, I often create my own brand image sheet for the
               project. It better helps guide my design choices.
             </p>
@@ -52,10 +52,10 @@ function Graphicdesign() {
               inspiration online from other projects or images that align with
               the brand image - although I might skip this if I already have a
               specific design in mind. When I have enough inspiration for the
-              design, I make several hand-drawn sketches, so that I have several
-              options to choose from when I start on the real design.
+              design, I make multiple hand-drawn sketches, so that I have
+              several options to choose from when I start on the real design.
             </p>
-            <h4>Step 4. Low-fidelity Prototype(framework)</h4>
+            <h4>Step 4. Low-fidelity Prototype</h4>
             <p>
               In this step, I make several quick and rough designs in the
               program of my choice, just to test out the different design ideas,
@@ -77,7 +77,7 @@ function Graphicdesign() {
             <h4>Step 6. Feedback and revisions</h4>
             <p>
               If I have a client, this is the step when I send the prototype for
-              feedback, and make changes to design if necessary.
+              feedback, and make changes to the design if necessary.
             </p>
           </div>
           <img

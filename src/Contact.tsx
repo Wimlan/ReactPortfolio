@@ -10,10 +10,10 @@ function Contact() {
         </h2>
         <h3>SNS and Contact</h3>
         <div className="contact">
-          <a href="">
+          <a href="mailto:wilma.yasuda@gmail.com">
             <p className="email">wilma.yasuda@gmail.com</p>
           </a>
-          <a href="">
+          <a href="https://www.linkedin.com/in/wilmayasuda/">
             <p>Linkedin</p>
           </a>
         </div>

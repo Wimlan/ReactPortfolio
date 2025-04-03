@@ -65,43 +65,49 @@ function Coding() {
             <h3>Programming my Portfolio website</h3>
             <p>
               This was the first time I was using react, and the reason I was
-              choose it for a from-scratch project such as this was mostly
-              because I wanted to learn to use it properly. One thing I
-              immediately noticed was how differently react code was structured.
-              It took some time to get properly used to, but now I'm glad for
-              the structure. It does give the code easier readability. <br />
+              choose it for a from-scratch project such as this one was mostly
+              because I wanted to learn to use it properly. Apparently there are
+              several advantages to using react, such as faster load times,
+              smoother user interaction, and more responsive user interface, as
+              well as reusable components and improved SEO. What I thought was a
+              large advantage for using react was that mostly any function
+              needed could be added by simply using import. I used for example
+              the yet-another-react-lightbox pluging for the gallery part, and
+              it worked without issues. All I needed to do was adjust the CSS to
+              fit my own design.
+              <br /> <br /> One thing I immediately noticed when I started, was
+              the difference in how the code was structured. It took some time
+              to get properly used to, especially understanding JSX and how to
+              write it. In several ways, although similar, the writing is
+              different from how one would usually write both HTML and
+              Javascript.
+              <br />
               <br />
               After I had created the brand image, logo, as well as the design
               for the website, I began with creating a simple Desktop version,
-              just to get the HTML elements on the page so where I could see
-              them. I also styled it simply with CSS to make it look
-              sstructurally closer to the final product. The first parts of the
-              page I added was the header and footer. I wanted to keep them
-              visible all the time, which meant that they would affect the
-              balance of the page design in between.
+              just to get the HTML elements on the page where I could see them.
+              I also styled it simply with CSS to make it look sstructurally
+              closer to the final product. The first parts of the page I added
+              was the header and footer. I wanted to keep them visible all the
+              time, mostly because they would affect the balance of the design
+              in between.
               <br /> <br />
               After I had a base structure, I added projects images as well as
-              descriptions. The reason for adding it this early was that I know
+              descriptions. The reason for adding it this early was that I knew
               I would end up changing some of the design when I added my
-              projects, mostly because I ended up wanting to add more pictures
-              or more text to the page than I had calculated for in the design.
-              The were a few changes I had to make, none that time-consuming.
+              projects. Mostly because wanted to add more pictures and more text
+              to the page than I had calculated for when I first designed the
+              page. Fortunately none of the changes I had to make was overly
+              time-consuming.
               <br /> <br />
-              I added everything else first after making the basic structure,
-              mostly because I had my own set deadline, so I thought that if I
-              added javascript or made it responsive while first creating the
-              page, I would become stuck on adjusting the smaller details and
-              not finish in time. This way it would be easier to calculate the
-              time left over for adding more advanced functions if I so wanted.
-              <br />
-              <br />
-              One thing that was a large advantage for using react was that
-              mostly any function needed could be added by simply importing a
-              plugin. I used for example the yet-another-react-lightbox pluging
-              for the gallery part. Although, one disadvantage with this was
-              that it was harder to adjust any of the imported code if
-              necessary. <br />
-              <br />
+              It was first after I had finalized most of the HTML and CSS that I
+              added the Javascript and made the page responsive. Mostly this was
+              because I had my own set deadline, so I was afraid that if I added
+              Javascript or made the page responsive in the beginning, I would
+              lose myself in adjusting the smaller details and not finish in
+              time. This way it was easier to calculate the time left over for
+              adding more advanced functions or further change the design if I
+              so wanted.
             </p>
             <Images
               data={thisprojectslide}
@@ -143,14 +149,20 @@ function Coding() {
               In 2024, when my former company One Peace ltd. approached their
               20th anniversary, I was asked by the anniversary project team to
               create a page showcasing the event that was going to be held in
-              April 2025. The prototypes and framework as well as the finished
-              page can be found below(the webpage is in Japanese). <br />
+              April 2025. The prototypes as well as the finished page can be
+              found below(the webpage is in Japanese). <br />
+              <br />I programmed the page by myself from scratch using HTML5,
+              CSS and Javascript. Afterwards the code was sent to a colleague
+              for feedback. Me and this colleague were the only two people with
+              any programming knowledge, and therefore the only ones to update
+              the site afterwards.
               <br />
-              When I first created the framework and prototype there was a lot
-              of details that hadn't been decided yet, and even after the page
-              was coded, it had to be updated afterhand. Therefore, even though
-              the general design style is the same, the details of the page has
-              changed some.
+              <br />
+              When I first created the prototype there was a lot of details that
+              hadn't been decided yet, and even after the page was coded, it had
+              to be updated afterhand. Therefore, even though the general design
+              style is the same, the details and structure of the page has
+              changed in several places.
               <br />
               <br />
               Since the event was going to be held in April, they wanted to have
@@ -158,7 +170,7 @@ function Coding() {
               flowers, curtains, old keys/books, as well wooden doors. All this
               helped me decide on three keywords: light, elegant, and antique. I
               then designed the page with soft colors while trying to keep that
-              antique feeling in terms of shapes, although many of the shapes
+              antique feeling in terms of shapes - although many of the shapes
               were later changed to simpler ones during coding as more details
               were added and design changes were made for readability(such as
               adding popup buttons to the Event Content section).

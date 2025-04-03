@@ -1,19 +1,19 @@
 export const thisprojectslide = [
   {
     src: "src/assets/img/portfolio-design.png",
-    title: "Sanpo Brand Image",
-    description: "Slide description",
+    title: "Portfolio Prototype",
+    description: "",
   },
   {
     src: "src/assets/img/portfoliologo-dark.png",
-    title: "Sanpo Brand Image",
-    description: "Slide description",
+    title: "Portfolio logo - dark background",
+    description: "",
   },
 
   {
     src: "src/assets/img/portfoliologo-light.png",
-    title: "Sanpo Brand Image",
-    description: "Slide description",
+    title: "Portfolio logo - light background",
+    description: "",
   },
 ];
 
@@ -31,8 +31,8 @@ export const otherprojectslide = [
   },
   {
     src: "src/assets/img/Dream Villiage Prototype.png",
-    title: "One Peace ltd. 20th Anniversary page",
-    description: "Mobile framework for One Peace ltd. 20th Anniversary page",
+    title: "Dream Villiage website",
+    description: "Prototype for Dream Villiage's website",
   },
 ];
 
@@ -114,13 +114,13 @@ export const slides = [
     src: "src/assets/img/doomdawn03.png",
     title: "Metal cover - Version 03",
     description:
-      "The third cover portrays an exploding star, with splashes of red and black showing a vision of the death will come as a cause of it. I believe that it is the contrast in colors that draws the eye in this cover.",
+      "The third cover portrays an exploding star, with splashes of red and black showing a vision of the death that will come as a cause of it. I believe that it is the contrast in colors that draws the eye in this cover.",
   },
   {
     src: "src/assets/img/doomdawn04.png",
     title: "Metal cover - Version 04",
     description:
-      "The fourth cover is a more of an abstract one. It is also the one the client choose. Several illustrations are combined into a composite image. The background shows a burning wasteland. On top of it the illustration of a plant as well as a red splash of paint has been added, the combination giving the effect of an explosion occuring.",
+      "The fourth cover is more of an abstract one. It is also the one the client chose. Several illustrations are combined into a composite image. The background shows a burning wasteland. On top of it the illustration of a plant as well as a red splash of paint has been added, the combination giving the effect of an explosion occuring.",
   },
 
   {
@@ -139,33 +139,31 @@ export const slides = [
 
   {
     src: "src/assets/img/concrete-cafe-facebook-cover-01.png",
-    title: "Poster or logo",
+    title: "Concrete Café Advertisement",
     description:
       "Designing advertisement is a balance between visually pretty and informative. If an advertisement has too many design elements or too much text the customer may not understand the overall message. At the same time, if an advertisement is visually displeasing, then the customer may have a bad first impression of the company. Then there is the company branding to consider. Any graphic created for the company must be in line with the visual brand. For this ad I used brighter colors to portray the warmth of coffee and meeting people that is associated with a café. It also fits perfectly with the pop feeling of the logo. Despite the pop colors the rectangle shapes stops it from looking too childish. This way it fits perfect for the target user of young adults.",
   },
-
-  {
-    src: "src/assets/img/girlonewhitering.jpg",
-    title: "Book Cover",
-    description:
-      "When I have time, I like to challenge myself to create abstract art. It is a great way to try out new tools in whatever design tool I'm currently using.",
-  },
-  {
-    src: "src/assets/img/forestred.jpg",
-    title: "Book Cover",
-    description: "",
-  },
-
   {
     src: "src/assets/img/thelosthalf-cover.jpg",
     title: "Book Cover",
     description:
-      "Writing is another one of my passions. I spend half of my free-time designing and the rest writing novels. Maybe that's why it is not a surprise that I enjoy creating mock book covers so much. This particular novel is of the mystery and supernatural genre, the plot revolving around ghosts. Therefore I choose a more still portrait, layering a photo of frost to give it a more old and chilling effect perfect for a ghost story.",
+      "Writing is another one of my passions. I spend half of my free-time designing and the rest writing novels. Maybe that's why it is no surprise that I enjoy creating mock book covers so much. This particular novel is of the mystery and supernatural genre, the plot revolving around ghosts. Therefore I choose a more still portrait, layering a photo of frost to give it an old and chilling effect perfect for a ghost story.",
   },
   {
     src: "src/assets/img/logoex07.jpg",
     title: "Welfare Organization - mock logo",
     description:
       "I always start logo designing with with a mind-map. What words are associated with social welfare? People, help, peace. What words are associated with peace? Dove, happiness, treaty. I continue like that until I find words that I think correctly represents the organization. Then I draw by hand as many logo designs I can think about. When I am truly exhausted of ideas, I choose about four or five drawings that I really like. Those are the ones that I will design in Illustrator. I will try different shapes, colors, and just play around until I am completely satisfied with what I have. Then if I have client, I will send them my four or five favorite designs for feedback. I believe that in this stage showing designs in context is important(for example, creating a photo of a business card or a sign using the logo). Then after the client feedback, I will do the adjustments necessary.",
+  },
+  {
+    src: "src/assets/img/girlonewhitering.jpg",
+    title: "Abstract Art",
+    description:
+      "When I have time, I like to challenge myself to create abstract art. It is a great way to try out new tools in whatever design tool I'm currently using.",
+  },
+  {
+    src: "src/assets/img/forestred.jpg",
+    title: "Abstract Art",
+    description: "",
   },
 ];

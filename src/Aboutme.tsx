@@ -9,20 +9,18 @@ function Aboutme() {
           <h2>About Me</h2>
           <h3>Wilma Yasuda</h3>
           <p>
-            I am a Graphic Designer/Web Designer/Web Developer
-            <br /> born and raised in Sweden, but who has experience
-            <br /> living and working in Japan for 14 years.
+            I am a Graphic Designer/Web Designer/Web Developer born and raised
+            in Sweden, but who has experience living and working in Japan for 14
+            years.
             <br />
             <br />
-            I have been working as a Graphic Designer <br />
-            professionally since 2018,
+            I have been working as a Graphic Designer professionally since 2018,
+            and as a Web Designer/Front-end Developer since 2022, but I have
+            been a creative person my whole life.
             <br />
-            and as a Web Designer/Front-end Developer since 2022,
             <br />
-            but I have been a creative person my whole life. <br />
-            <br />
-            In my free-time, aside from designing or reading about design,
-            <br />I also enjoy writing my own novels and musicals.
+            In my free-time, aside from designing or reading about design, I
+            also enjoy writing my own novels and musicals.
           </p>
         </div>
         <img
