@@ -92,7 +92,7 @@ export const slides = [
   },
 
   {
-    src: "src/assets/img/Vieo02-temporary.png",
+    src: "src/assets/img/Vieo-brand-image.png",
     title: "Vieo - Brand Image",
     description:
       "This is another re-branding I imagined for the brand Vieo. The current brand is very much about women in their 40s and 50s still being able to enjoy fashion as they age. I really like this idea, but I personally feel that the brand has no brand image, and in return the brand looks boring and bland. Therefore I took it upon myself to create a brand image sheet for this brand.(Current page:https://www.rakuten.ne.jp/gold/vieo/)",
@@ -131,38 +131,44 @@ export const slides = [
   },
 
   {
-    src: "src/assets/img/Alice02.png",
+    src: "src/assets/img/alice'sadventuresinwonderlandmockup.png",
     title: "Alice's Adventures in Wonderland - Poster",
     description:
       "→ I decided it would be easiest to get that chaotic feeling with typography. In the ballet there is a stage background where different letter are spread out all over the background. I really liked the chaotic feeling it gave and wanted to do something similar, but spreading out the title to much would make it unreadable. I therefore decided to only do the wonderland part, randomizing the font and size, while still keeping it aligned for readability. Behind the title I added the shapes of a labyrinth referencing the very confusing journey she has to go through in Wonderland. I also added the crown and hearts to reference the queen of hearts, although I made some of the hearts purple to reference the journey Alice does to save her own love. I made the colors very saturated to give that playful but also dreamlike feeling the ballet has. It goes on theme with how the ballet also works with strong colors in their stage and custome design.",
   },
 
   {
-    src: "src/assets/img/concrete-cafe-facebook-cover-01.png",
+    src: "src/assets/img/concretecafeads.png",
     title: "Concrete Café Advertisement",
     description:
       "Designing advertisement is a balance between visually pretty and informative. If an advertisement has too many design elements or too much text the customer may not understand the overall message. At the same time, if an advertisement is visually displeasing, then the customer may have a bad first impression of the company. Then there is the company branding to consider. Any graphic created for the company must be in line with the visual brand. For this ad I used brighter colors to portray the warmth of coffee and meeting people that is associated with a café. It also fits perfectly with the pop feeling of the logo. Despite the pop colors the rectangle shapes stops it from looking too childish. This way it fits perfect for the target user of young adults.",
   },
   {
-    src: "src/assets/img/thelosthalf-cover.jpg",
+    src: "src/assets/img/Book-Covers-ex.jpg",
     title: "Book Cover",
     description:
-      "Writing is another one of my passions. I spend half of my free-time designing and the rest writing novels. Maybe that's why it is no surprise that I enjoy creating mock book covers so much. This particular novel is of the mystery and supernatural genre, the plot revolving around ghosts. Therefore I choose a more still portrait, layering a photo of frost to give it an old and chilling effect perfect for a ghost story.",
+      "Writing is another one of my passions. I spend half of my free-time designing and the rest writing novels. Maybe that's why it is no surprise that I enjoy creating mock book covers so much. Both these covers are based on novels I am currently writing. The one to the left is a novel based on North Mythology, and follows a woman who becomes a warrior of Valhalla after her death. The novel to the left is of the mystery and supernatural genre, the plot revolving around ghosts. Therefore I choose a more still portrait, layering a photo of frost to give it an old and chilling effect perfect for a ghost story.",
   },
   {
-    src: "src/assets/img/logoex07.jpg",
+    src: "src/assets/img/hexhallcovers.png",
+    title: "Book Cover",
+    description:
+      "One more modern and one more classical re-design of the book Hex Hall by Rachel Hawkins.",
+  },
+  {
+    src: "src/assets/img/logoex01.png",
     title: "Welfare Organization - mock logo",
     description:
       "I always start logo designing with with a mind-map. What words are associated with social welfare? People, help, peace. What words are associated with peace? Dove, happiness, treaty. I continue like that until I find words that I think correctly represents the organization. Then I draw by hand as many logo designs I can think about. When I am truly exhausted of ideas, I choose about four or five drawings that I really like. Those are the ones that I will design in Illustrator. I will try different shapes, colors, and just play around until I am completely satisfied with what I have. Then if I have client, I will send them my four or five favorite designs for feedback. I believe that in this stage showing designs in context is important(for example, creating a photo of a business card or a sign using the logo). Then after the client feedback, I will do the adjustments necessary.",
   },
   {
-    src: "src/assets/img/girlonewhitering.jpg",
+    src: "src/assets/img/framegirlwhitering.jpg",
     title: "Abstract Art",
     description:
       "When I have time, I like to challenge myself to create abstract art. It is a great way to try out new tools in whatever design tool I'm currently using.",
   },
   {
-    src: "src/assets/img/forestred.jpg",
+    src: "src/assets/img/treeframe3.jpg",
     title: "Abstract Art",
     description: "",
   },
