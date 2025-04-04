@@ -8,13 +8,16 @@ import Gallery from "./Gallery";
 import Webdesign from "./Webdesign";
 import Coding from "./Coding";
 import Contact from "./Contact";
+import "animate.css";
 
 function App() {
   return (
     <>
       <div id="top"></div>
       <Header />
+
       <Intro />
+
       <Aboutme />
       <div className="background-pink">
         <Graphicdesign />

@@ -22,7 +22,9 @@ function Coding() {
     <>
       <div id="programming"></div>
       <section className="coding-page">
-        <h2 className="coding-title">Programming</h2>
+        <h2 data-aos="fade-left" className="coding-title">
+          Programming
+        </h2>
         <Tabs>
           <TabList>
             <Tab>Skills</Tab>

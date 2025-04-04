@@ -4,7 +4,7 @@ function Aboutme() {
   return (
     <>
       <div id="aboutme"></div>
-      <div className="aboutme-page">
+      <div data-aos="fade-left" className="aboutme-page">
         <div className="description">
           <h2>About Me</h2>
           <h3>Wilma Yasuda</h3>

@@ -21,7 +21,7 @@ function Webdesign() {
     <>
       <div id="webdesign"></div>
       <div className="webdesign-page">
-        <div className="web-design-intro">
+        <div data-aos="zoom-in" className="web-design-intro">
           <h2>Web Design</h2>
           <h3>Toddlerknit(mock-project)</h3>
           <p>
@@ -33,13 +33,14 @@ function Webdesign() {
         {/* <button onClick={() => setOpen(true)}>Open Lightbox</button>--!> */}
         <div className="websection-one">
           <img
+            data-aos="fade-right"
             className="brandimage"
             width="580px"
             height="220"
             src="src/assets/img/toddlerknit-brandimage.jpg"
             alt="brandimage"
           />
-          <div className="webdescription">
+          <div data-aos="fade-left" className="webdescription">
             <p>
               Considering that the products are knitted items with the target
               user being Swedish parents, an outdoor fall and winter setting
@@ -99,6 +100,7 @@ function Webdesign() {
           close={() => setIndex(-1)}
           slides={webslides}
         />
+
         <a id="otherprojects" href="#programming">
           See other Web Design Projects <br />
           (that I also coded)

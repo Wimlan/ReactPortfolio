@@ -1,10 +1,16 @@
 import "./assets/intropage.css";
+import Aos from "aos";
+import "aos/dist/aos.css";
+import { useEffect } from "react";
 
 function Intro() {
+  useEffect(() => {
+    Aos.init({ duration: 2000 });
+  });
   return (
     <>
       <div className="intro-page">
-        <div className="intro-left">
+        <div data-aos="fade-right" className="intro-left">
           <img
             width="250px"
             src=".\src\assets\img\wilmaportfolio-logo02.png"
@@ -16,7 +22,7 @@ function Intro() {
             Design
           </h3>
         </div>
-        <div>
+        <div data-aos="fade-left">
           <h1 className="desktop">
             Port <br />
             folio <br />

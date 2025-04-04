@@ -5,7 +5,7 @@ function Graphicdesign() {
     <>
       <div id="graphicdesign"></div>
       <section className="graphicdesign-page">
-        <h2>Graphic Design</h2>
+        <h2 data-aos="fade-right">Graphic Design</h2>
         <div className="designsection-one">
           <div className="designdescription">
             <h3>How I Design</h3>
@@ -31,6 +31,7 @@ function Graphicdesign() {
             </p>
           </div>
           <img
+            data-aos="fade-left"
             width="150px"
             height="150px"
             src="src/assets/img/vieo-temporary.png"
@@ -40,6 +41,7 @@ function Graphicdesign() {
 
         <div className="designsection-two">
           <img
+            data-aos="fade-right"
             width="150px"
             height="150px"
             src="src/assets/img/Desktop - Landing Page 02.png"
@@ -81,6 +83,7 @@ function Graphicdesign() {
             </p>
           </div>
           <img
+            data-aos="fade-left"
             width="150px"
             height="150px"
             src="src\assets\img\vieo-logo.png"
