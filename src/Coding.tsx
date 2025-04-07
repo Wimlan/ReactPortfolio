@@ -65,19 +65,22 @@ function Coding() {
           </TabPanel>
           <TabPanel>
             <h3>Programming my Portfolio website</h3>
+            <a href="https://github.com/Wimlan/ReactPortfolio.git">
+              Github Repository
+            </a>
             <p>
-              This was the first time I was using react, and the reason I was
-              choose it for a from-scratch project such as this one was mostly
-              because I wanted to learn to use it properly. Apparently there are
-              several advantages to using react, such as faster load times,
-              smoother user interaction, and more responsive user interface, as
-              well as reusable components and improved SEO. What I thought was a
-              large advantage for using react was that mostly any function
-              needed could be added by simply using import. I used for example
-              the yet-another-react-lightbox pluging for the gallery part, and
-              it worked without issues. All I needed to do was adjust the CSS to
+              This was the first time I was using react, and the reason I choose
+              it for a from-scratch project such as this one was mostly because
+              I wanted to learn to use it properly. Apparently there are several
+              advantages to using react, such as faster load times, smoother
+              user interaction, and more responsive user interface, as well as
+              reusable components and improved SEO. What I thought was a large
+              advantage for using react was that mostly any function needed
+              could be added by simply using import. I used for example the
+              yet-another-react-lightbox pluging for the gallery part, and it
+              worked without issues. All I needed to do was adjust the CSS to
               fit my own design.
-              <br /> <br /> One thing I immediately noticed when I started, was
+              <br /> <br /> One thing I immediately noticed when I started was
               the difference in how the code was structured. It took some time
               to get properly used to, especially understanding JSX and how to
               write it. In several ways, although similar, the writing is
@@ -88,28 +91,30 @@ function Coding() {
               After I had created the brand image, logo, as well as the design
               for the website, I began with creating a simple Desktop version,
               just to get the HTML elements on the page where I could see them.
-              I also styled it simply with CSS to make it look sstructurally
+              I also styled it simply with CSS to make it look structurally
               closer to the final product. The first parts of the page I added
-              was the header and footer. I wanted to keep them visible all the
-              time, mostly because they would affect the balance of the design
+              was the header and footer. I wanted to keep them visible at all
+              times, mostly because they would affect the balance of the design
               in between.
               <br /> <br />
-              After I had a base structure, I added projects images as well as
+              After I had a base structure, I added images as well as
               descriptions. The reason for adding it this early was that I knew
-              I would end up changing some of the design when I added my
-              projects. Mostly because wanted to add more pictures and more text
-              to the page than I had calculated for when I first designed the
-              page. Fortunately none of the changes I had to make was overly
-              time-consuming.
+              I would end up changing some of the page design when I added the
+              images and text for my projects. Mostly because I wanted to add
+              more information to the page than I had calculated for when I
+              first designed the page. Fortunately none of the changes I had to
+              make was overly time-consuming.
               <br /> <br />
               It was first after I had finalized most of the HTML and CSS that I
-              added the Javascript and made the page responsive. Mostly this was
-              because I had my own set deadline, so I was afraid that if I added
-              Javascript or made the page responsive in the beginning, I would
-              lose myself in adjusting the smaller details and not finish in
-              time. This way it was easier to calculate the time left over for
-              adding more advanced functions or further change the design if I
-              so wanted.
+              added the Javascript and made the page responsive. The reason for
+              adding it last was that I had my own set deadline, so I was afraid
+              that if I added Javascript or made the page responsive in the
+              beginning, I would lose myself in adjusting the smaller details
+              and not finish in time. This way it was easier to calculate the
+              time left over for adding more advanced functions or further
+              change the design if I so wanted. For example, one function that I
+              decided to add later was the fade-in effect for a more dynamic
+              page.
             </p>
             <Images
               data={thisprojectslide}
@@ -156,8 +161,8 @@ function Coding() {
               <br />I programmed the page by myself from scratch using HTML5,
               CSS and Javascript. Afterwards the code was sent to a colleague
               for feedback. Me and this colleague were the only two people with
-              any programming knowledge, and therefore the only ones to update
-              the site afterwards.
+              any programming experience in the company, and therefore the only
+              ones to update the site afterwards.
               <br />
               <br />
               When I first created the prototype there was a lot of details that
