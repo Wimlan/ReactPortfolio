@@ -23,7 +23,7 @@ function Coding() {
       <div id="programming"></div>
       <section className="coding-page">
         <h2 data-aos="fade-left" className="coding-title">
-          Programming
+          Front-end Developing
         </h2>
         <Tabs>
           <TabList>
@@ -65,6 +65,23 @@ function Coding() {
           </TabPanel>
           <TabPanel>
             <h3>Programming my Portfolio website</h3>
+            <Images
+              data={thisprojectslide}
+              onClick={(currentIndex) => setIndex(currentIndex)}
+            />
+            <Lightbox
+              plugins={[Captions, Fullscreen, Thumbnails, Zoom]}
+              captions={{
+                showToggle: true,
+                descriptionTextAlign: "center",
+              }}
+              // open={open}
+              // close={() => setOpen(false)}
+              index={index}
+              open={index >= 0}
+              close={() => setIndex(-1)}
+              slides={thisprojectslide}
+            />
             <a href="https://github.com/Wimlan/ReactPortfolio.git">
               Github Repository
             </a>
@@ -116,23 +133,6 @@ function Coding() {
               decided to add later was the fade-in effect for a more dynamic
               page.
             </p>
-            <Images
-              data={thisprojectslide}
-              onClick={(currentIndex) => setIndex(currentIndex)}
-            />
-            <Lightbox
-              plugins={[Captions, Fullscreen, Thumbnails, Zoom]}
-              captions={{
-                showToggle: true,
-                descriptionTextAlign: "center",
-              }}
-              // open={open}
-              // close={() => setOpen(false)}
-              index={index}
-              open={index >= 0}
-              close={() => setIndex(-1)}
-              slides={thisprojectslide}
-            />
           </TabPanel>
           <TabPanel>
             <h3>Metal Band Page</h3>

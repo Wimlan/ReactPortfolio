@@ -9,9 +9,9 @@ function Aboutme() {
           <h2>About Me</h2>
           <h3>Wilma Yasuda</h3>
           <p>
-            I am a Graphic Designer/Web Designer/Web Developer born and raised
-            in Sweden, but who has experience living and working in Japan for 14
-            years.
+            I am a Graphic Designer/Web Designer/Front-end Developer based in
+            Gothenburg, Sweden, who has experience living and working in Japan
+            for 14 years.
             <br />
             <br />
             I have been working as a Graphic Designer professionally since 2018,
@@ -19,8 +19,13 @@ function Aboutme() {
             been a creative person my whole life.
             <br />
             <br />
-            In my free-time, aside from designing or reading about design, I
-            also enjoy writing my own novels and musicals.
+            For design I work mostly with Adobe programs such as Photoshop,
+            Illustrator or InDesign. I also commonly work with Figma for web
+            design.
+            <br /> <br />
+            As a front-end developer, the most commonly used languages are
+            HTML5, CSS, and Javascript. I also have experience using react.js as
+            well as a basic understanding of C#.
           </p>
         </div>
         <img

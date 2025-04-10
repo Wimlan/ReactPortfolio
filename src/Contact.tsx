@@ -17,6 +17,7 @@ function Contact() {
             <p>Linkedin</p>
           </a>
         </div>
+        <h4>Based in Gothenburg, Sweden</h4>
       </section>
     </>
   );

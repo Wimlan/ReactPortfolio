@@ -22,7 +22,7 @@ function Footer() {
           </li>
 
           <li>
-            <a href="#programming">Programming</a>
+            <a href="#programming">Front-end</a>
           </li>
 
           <li>
