@@ -18,7 +18,7 @@ function Intro() {
           />
           <h2>WILMA YASUDA</h2>
           <h3>
-            Web Design <span className="coding-color">Web Developing</span>
+            UX/UI <span className="coding-color">Web Developing</span>
             Graphic Design
           </h3>
         </div>

@@ -22,7 +22,7 @@ function Webdesign() {
       <div id="webdesign"></div>
       <div className="webdesign-page">
         <div data-aos="zoom-in" className="web-design-intro">
-          <h2>Web Design</h2>
+          <h2>UX/UI</h2>
           <h3>Toddlerknit(mock-project)</h3>
           <p>
             The design process of this mock-project is very similar <br />

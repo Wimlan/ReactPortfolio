@@ -14,7 +14,7 @@ function Footer() {
           </li>
 
           <li>
-            <a href="#webdesign">Web Design</a>
+            <a href="#webdesign">UX/UI</a>
           </li>
 
           <li>

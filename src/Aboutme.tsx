@@ -9,13 +9,13 @@ function Aboutme() {
           <h2>About Me</h2>
           <h3>Wilma Yasuda</h3>
           <p>
-            I am a Graphic Designer/Web Designer/Web Developer based in
+            I am a Graphic Designer/UX/UI Designer/Web Developer based in
             Gothenburg, Sweden, who has experience living and working in Japan
             for 14 years.
             <br />
             <br />
             I have been working as a Graphic Designer professionally since 2018,
-            and as a Web Designer/Web Developer since 2022, but I have been a
+            and as a UX/UI Designer/Web Developer since 2022, but I have been a
             creative person my whole life.
             <br />
             <br />

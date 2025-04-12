@@ -8,6 +8,7 @@ function Graphicdesign() {
         <h2 data-aos="fade-right">Graphic Design</h2>
         <div className="designsection-one">
           <div className="designdescription">
+            {/* make these steps accordions(like bootstrap accordions), and remove the images*/}
             <h3>How I Design</h3>
             <p>
               How I design is generally based on the project, as no project is
