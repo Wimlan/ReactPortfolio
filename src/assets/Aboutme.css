@@ -55,6 +55,12 @@
     width: 20rem;
     height: 20rem;
   }
+  .description h2 {
+    font-size: 60px;
+  }
+  .description p {
+    margin: 10px;
+  }
 
   .description {
     position: static;

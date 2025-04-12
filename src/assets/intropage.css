@@ -49,8 +49,11 @@
     color: white;
     margin: 60px 0 60px 0;
   }
+  .intro-page h3 {
+    font-size: 15px;
+  }
   .intro-page h1 {
-    font-size: 50px;
+    font-size: 40px;
     margin-top: 15px;
     line-height: 1.2em;
     text-align: center;

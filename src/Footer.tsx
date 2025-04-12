@@ -6,10 +6,6 @@ function Footer() {
       <nav>
         <ul className="footer-list">
           <li>
-            <a href="#top">Top</a>
-          </li>
-
-          <li>
             <a href="#aboutme">About Me</a>
           </li>
 
@@ -22,7 +18,7 @@ function Footer() {
           </li>
 
           <li>
-            <a href="#programming">Front-end</a>
+            <a href="#programming">Web Dev</a>
           </li>
 
           <li>

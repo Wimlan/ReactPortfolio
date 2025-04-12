@@ -44,7 +44,8 @@ img {
     height: 13rem !important;
   }
   .images-container {
-    width: 95%;
-    gap: 1rem !important;
+    width: 97%;
+    gap: 0.5rem !important;
+    grid-template-columns: repeat(auto-fit, minmax(8rem, 1fr)) !important;
   }
 }

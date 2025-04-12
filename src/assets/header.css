@@ -37,13 +37,13 @@
     width: 200px;
   }
   .header-menu h2 {
-    font-size: 22px;
+    font-size: 17px;
   }
 }
 
 @media screen and (max-width: 820px) {
   .header-menu h2 {
-    font-size: 17px;
+    font-size: 12px;
   }
   .header-menu hr {
     width: 100px;

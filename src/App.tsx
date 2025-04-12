@@ -12,17 +12,18 @@ import Contact from "./Contact";
 function App() {
   return (
     <>
-      <div id="top"></div>
       <Header />
-      <Intro />
-      <Aboutme />
-      <div className="background-pink">
-        <Graphicdesign />
-        <Gallery />
-        <Webdesign />
-        <Coding />
+      <div className="overflowhidden">
+        <Intro />
+        <Aboutme />
+        <div className="background-pink">
+          <Graphicdesign />
+          <Gallery />
+          <Webdesign />
+          <Coding />
+        </div>
+        <Contact />
       </div>
-      <Contact />
       <Footer />
     </>
   );

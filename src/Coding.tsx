@@ -23,7 +23,7 @@ function Coding() {
       <div id="programming"></div>
       <section className="coding-page">
         <h2 data-aos="fade-left" className="coding-title">
-          Front-end Developing
+          Web Developing
         </h2>
         <Tabs>
           <TabList>
@@ -87,22 +87,15 @@ function Coding() {
             </a>
             <p>
               This was the first time I was using react, and the reason I choose
-              it for a from-scratch project such as this one was mostly because
-              I wanted to learn to use it properly. Apparently there are several
-              advantages to using react, such as faster load times, smoother
-              user interaction, and more responsive user interface, as well as
-              reusable components and improved SEO. What I thought was a large
-              advantage for using react was that mostly any function needed
-              could be added by simply using import. I used for example the
-              yet-another-react-lightbox pluging for the gallery part, and it
-              worked without issues. All I needed to do was adjust the CSS to
-              fit my own design.
-              <br /> <br /> One thing I immediately noticed when I started was
-              the difference in how the code was structured. It took some time
-              to get properly used to, especially understanding JSX and how to
-              write it. In several ways, although similar, the writing is
-              different from how one would usually write both HTML and
-              Javascript.
+              to use reactJS is because there are several advantages to using
+              it, such as faster load times, smoother user interaction, and more
+              responsive user interface, as well as reusable components and
+              improved SEO.
+              <br /> <br /> One thing I noticed when I first started with react
+              was the difference in how the code was structured. It took some
+              time to get properly used to, especially understanding JSX and how
+              to write it. In several ways the writing is different from how one
+              would usually write both HTML and Javascript.
               <br />
               <br />
               After I had created the brand image, logo, as well as the design

@@ -18,9 +18,8 @@ function Intro() {
           />
           <h2>WILMA YASUDA</h2>
           <h3>
-            Web Design{" "}
-            <span className="coding-color">Front-end Developing</span> Graphic
-            Design
+            Web Design <span className="coding-color">Web Developing</span>
+            Graphic Design
           </h3>
         </div>
         <div data-aos="fade-left">

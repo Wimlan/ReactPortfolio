@@ -31,8 +31,8 @@
   box-sizing: border-box;
 }
 
-body {
-  margin: 0;
+.overflowhidden {
+  overflow-x: hidden;
 }
 
 .background-pink {
