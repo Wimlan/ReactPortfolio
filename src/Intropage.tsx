@@ -13,8 +13,8 @@ function Intro() {
         <div data-aos="fade-right" className="intro-left">
           <img
             width="250px"
-            src=".\src\assets\img\wilmaportfolio-logo02.png"
-            alt=""
+            src="../src/assets/img/wilmaportfolio-logo02.png"
+            alt="logo"
           />
           <h2>WILMA YASUDA</h2>
           <h3>

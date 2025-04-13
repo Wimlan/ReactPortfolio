@@ -1,3 +1,5 @@
+import { FC } from "react";
+
 interface ImagesProps {
   //same as in gallery-images
   data: {

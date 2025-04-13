@@ -24,7 +24,7 @@ function Gallery() {
 
       <Images
         data={slides}
-        onClick={(currentIndex) => setIndex(currentIndex)}
+        onClick={(currentIndex: number) => setIndex(currentIndex)}
       />
 
       <Lightbox

@@ -37,7 +37,7 @@ function Webdesign() {
             className="brandimage"
             width="580px"
             height="220"
-            src="src/assets/img/toddlerknit-brandimage.jpg"
+            src="../src/assets/img/toddlerknit-brandimage.jpg"
             alt="brandimage"
           />
           <div data-aos="fade-left" className="webdescription">
@@ -85,7 +85,7 @@ function Webdesign() {
         </div>
         <Images
           data={webslides}
-          onClick={(currentIndex) => setIndex(currentIndex)}
+          onClick={(currentIndex: number) => setIndex(currentIndex)}
         />
         <Lightbox
           plugins={[Captions, Fullscreen, Thumbnails, Zoom]}
