@@ -32,7 +32,7 @@ function Aboutme() {
           className="aboutme-img"
           width="350px"
           height="auto"
-          src="src/assets/img/aboutme-wilma.png"
+          src="assets/img/aboutme-wilma.png"
           alt="portrait of wilma"
         />
       </div>

@@ -35,7 +35,7 @@ function Graphicdesign() {
             data-aos="fade-left"
             width="150px"
             height="150px"
-            src="src/assets/img/vieo-temporary.png"
+            src="assets/img/vieo-temporary.png"
             alt="portrait of wilma"
           />
         </div>
@@ -45,7 +45,7 @@ function Graphicdesign() {
             data-aos="fade-right"
             width="150px"
             height="150px"
-            src="src/assets/img/Desktop - Landing Page 02.png"
+            src="assets/img/Desktop - Landing Page 02.png"
             alt="portrait of wilma"
           />
           <div className="designdescription">
@@ -87,7 +87,7 @@ function Graphicdesign() {
             data-aos="fade-left"
             width="150px"
             height="150px"
-            src="src\assets\img\vieo-logo.png"
+            src="assets\img\vieo-logo.png"
             alt="portrait of wilma"
           />
         </div>

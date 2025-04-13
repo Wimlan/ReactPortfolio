@@ -67,7 +67,7 @@ function Coding() {
             <h3>Programming my Portfolio website</h3>
             <Images
               data={thisprojectslide}
-              onClick={(currentIndex) => setIndex(currentIndex)}
+              onClick={(currentIndex: number) => setIndex(currentIndex)}
             />
             <Lightbox
               plugins={[Captions, Fullscreen, Thumbnails, Zoom]}
@@ -184,7 +184,7 @@ function Coding() {
             </a> */}
             <Images
               data={otherprojectslide}
-              onClick={(currentIndex) => setIndex(currentIndex)}
+              onClick={(currentIndex: number) => setIndex(currentIndex)}
             />
             <Lightbox
               plugins={[Captions, Fullscreen, Thumbnails, Zoom]}
