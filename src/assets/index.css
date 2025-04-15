@@ -52,12 +52,19 @@
   font-style: normal;
 }
 
+html {
+  overflow-x: hidden;
+}
+
 body {
   font-family: "Inter", sans-serif;
   margin: 0;
   padding: 0;
   background-color: #434343;
-  overflow-x: hidden;
+}
+
+a {
+  text-decoration: none;
 }
 
 h2 {

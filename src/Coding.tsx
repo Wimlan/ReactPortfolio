@@ -76,7 +76,7 @@ function Coding() {
             <p>C#</p>
           </TabPanel>
           <TabPanel>
-            <h3>Programming my Portfolio website</h3>
+            <h3>Programming my Portfolio website</h3> <br />
             <a href="https://github.com/Wimlan/ReactPortfolio.git">
               Github Repository
             </a>
@@ -120,7 +120,6 @@ function Coding() {
               decided to add later was the fade-in effect for a more dynamic
               page.
             </p>
-
             <Images
               data={thisprojectslide}
               onClick={(currentIndex: number) => setIndex(currentIndex)}
@@ -141,12 +140,6 @@ function Coding() {
           </TabPanel>
           <TabPanel>
             <h3>Metal Band Page</h3>
-            <p>
-              I both designed and coded the page for the band Dream Villiage,
-              using my 7 years in design and 3 years in front-end coding to
-              create a page that represents Dream Villiage's mystical yet
-              emotionally intense music.
-            </p>
             <br />
             <a href="https://www.linkedin.com/pulse/designing-coding-my-first-metal-website-wilma-yasuda-obvqc/">
               My Thought Process
@@ -155,8 +148,18 @@ function Coding() {
             <br />
             <a href="https://dreamvilliage.se/">Finished Page Here</a>
             <br />
+            <p>
+              I both designed and coded the page for the band Dream Villiage,
+              using my 7 years in design and 3 years in front-end coding to
+              create a page that represents Dream Villiage's mystical yet
+              emotionally intense music.
+            </p>
             <br />
-            <h3>One Peace ltd's 20th Anniversary Page</h3>
+            <br />
+            <h3>One Peace ltd's 20th Anniversary Page</h3> <br />
+            <a href="https://onepeace-online.jp/pages/20th-anniversary">
+              Finished page here
+            </a>
             <p>
               In 2024, when my former company One Peace ltd. approached their
               20th anniversary, I was asked by the anniversary project team to
@@ -188,9 +191,6 @@ function Coding() {
               adding popup buttons to the Event Content section).
             </p>
             <br />
-            <a href="https://onepeace-online.jp/pages/20th-anniversary">
-              Finished page here
-            </a>
             {/* <a href="https://www.rakuten.ne.jp/gold/styleformom/kikaku/20th-anniversary-rakuten.html">
               →Finished page here←
             </a> */}
