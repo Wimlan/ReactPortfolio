@@ -27,9 +27,21 @@ function Coding() {
         </h2>
         <Tabs>
           <TabList>
-            <Tab>Skills</Tab>
-            <Tab>This Project</Tab>
-            <Tab>Other Projects</Tab>
+            <Tab>
+              My
+              <br />
+              Skills
+            </Tab>
+            <Tab>
+              This
+              <br />
+              Project
+            </Tab>
+            <Tab>
+              Other
+              <br />
+              Projects
+            </Tab>
           </TabList>
 
           <TabPanel>
@@ -65,32 +77,15 @@ function Coding() {
           </TabPanel>
           <TabPanel>
             <h3>Programming my Portfolio website</h3>
-            <Images
-              data={thisprojectslide}
-              onClick={(currentIndex: number) => setIndex(currentIndex)}
-            />
-            <Lightbox
-              plugins={[Captions, Fullscreen, Thumbnails, Zoom]}
-              captions={{
-                showToggle: true,
-                descriptionTextAlign: "center",
-              }}
-              // open={open}
-              // close={() => setOpen(false)}
-              index={index}
-              open={index >= 0}
-              close={() => setIndex(-1)}
-              slides={thisprojectslide}
-            />
+
             <a href="https://github.com/Wimlan/ReactPortfolio.git">
               Github Repository
             </a>
             <p>
-              This was the first time I was using react, and the reason I choose
-              to use reactJS is because there are several advantages to using
-              it, such as faster load times, smoother user interaction, and more
-              responsive user interface, as well as reusable components and
-              improved SEO.
+              The reason I choose to use react for this project is because there
+              are several advantages to using it, such as faster load times,
+              smoother user interaction, and more responsive user interface, as
+              well as reusable components and improved SEO.
               <br /> <br /> One thing I noticed when I first started with react
               was the difference in how the code was structured. It took some
               time to get properly used to, especially understanding JSX and how
@@ -126,6 +121,24 @@ function Coding() {
               decided to add later was the fade-in effect for a more dynamic
               page.
             </p>
+
+            <Images
+              data={thisprojectslide}
+              onClick={(currentIndex: number) => setIndex(currentIndex)}
+            />
+            <Lightbox
+              plugins={[Captions, Fullscreen, Thumbnails, Zoom]}
+              captions={{
+                showToggle: true,
+                descriptionTextAlign: "center",
+              }}
+              // open={open}
+              // close={() => setOpen(false)}
+              index={index}
+              open={index >= 0}
+              close={() => setIndex(-1)}
+              slides={thisprojectslide}
+            />
           </TabPanel>
           <TabPanel>
             <h3>Metal Band Page</h3>
@@ -137,11 +150,11 @@ function Coding() {
             </p>
             <br />
             <a href="https://www.linkedin.com/pulse/designing-coding-my-first-metal-website-wilma-yasuda-obvqc/">
-              Read more about how I designed and coded this page here
+              My Thought Process
             </a>
             <br />
             <br />
-            <a href="https://dreamvilliage.se/">Finished page here</a>
+            <a href="https://dreamvilliage.se/">Finished Page Here</a>
             <br />
             <br />
             <h3>One Peace ltd's 20th Anniversary Page</h3>

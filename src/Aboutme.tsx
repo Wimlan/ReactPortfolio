@@ -30,9 +30,9 @@ function Aboutme() {
         </div>
         <img
           className="aboutme-img"
-          width="350px"
+          width="400px"
           height="auto"
-          src="../src/assets/img/aboutme-wilma.png"
+          src="assets/img/aboutme-wilma.jpg"
           alt="portrait of wilma"
         />
       </div>

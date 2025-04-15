@@ -57,6 +57,23 @@ body {
   margin: 0;
   padding: 0;
   background-color: #434343;
+  overflow-x: hidden;
+}
+
+h2 {
+  font-weight: 900;
+  font-style: italic;
+}
+
+h3,
+h4 {
+  font-weight: 900;
+  font-style: normal;
+}
+
+p {
+  font-weight: 400;
+  font-style: normal;
 }
 
 .images-container {
@@ -78,4 +95,10 @@ body {
   height: 100%;
   object-fit: cover;
   border-radius: 8px;
+}
+
+@media screen and (max-width: 800px) {
+  p {
+    font-size: 14px;
+  }
 }

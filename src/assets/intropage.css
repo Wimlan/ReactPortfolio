@@ -4,7 +4,7 @@
   align-items: bottom;
   gap: 50px;
   color: white;
-  margin: 140px 0 100px 0;
+  margin: 100px 0 100px 0;
 }
 
 .intro-page h1 {
@@ -24,9 +24,9 @@
 }
 
 .intro-page h3 {
-  font-family: "Inter-Regular";
+  font-weight: 400;
+  font-style: normal;
   font-size: 20px;
-  font-weight: normal;
   margin: 0px;
   line-height: 2em;
   color: #938578;

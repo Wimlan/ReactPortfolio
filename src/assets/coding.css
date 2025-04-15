@@ -5,10 +5,7 @@
 }
 
 .coding-title {
-  position: relative;
-  right: 170px;
-  font-family: "Inter-BlackItalic";
-  text-align: right;
+  text-align: center;
   font-size: 70px;
   color: #434343;
   margin-bottom: 100px;
@@ -16,13 +13,10 @@
 
 .coding-page h3 {
   font-size: 35px;
-  font-family: "Inter-BlackItalic";
   color: #675b59;
 }
 
 .coding-page p {
-  font-size: 17px;
-  font-family: "Inter-Regular";
   color: #675c59;
   max-width: 450px;
   margin: auto;
@@ -34,22 +28,16 @@
   font-size: 15px;
   background: #968480;
   color: rgb(255, 255, 255);
-  border-radius: 10px;
+  border-radius: 8px;
   transition: 2s;
-  padding: 3px 10px 3px 10px;
+  padding: 6px 13px 6px 13px;
 }
 
 .coding-page a:hover {
   transition: 1s;
   background: #d88b79;
-}
-
-.coding-page .images img {
-  width: 250px;
-  height: 250px;
-  border-radius: 50% !important;
-  border: solid #968480 8px;
-  transition: 2s;
+  box-shadow: 0 12px 16px 0 rgba(0, 0, 0, 0.24),
+    0 17px 50px 0 rgba(0, 0, 0, 0.19);
 }
 
 .coding-page .images img:hover {
@@ -64,21 +52,15 @@
   bottom: 0px;
   width: 200px;
   height: fit-content;
-  background: #968480;
-  color: rgb(255, 255, 255);
+  background: #e8d8d5;
+  color: #434343;
   border-radius: 10px;
   transition: 2s;
   text-align: center;
 }
 
-.react-tabs__tab:hover {
-  transition: 1s;
-  background: #736664;
-  color: rgb(255, 255, 255);
-}
-
 .react-tabs__tab--selected {
-  background: #434343;
+  background: #d88b79;
   color: rgb(255, 255, 255);
   transition: 2s;
 }
@@ -89,7 +71,7 @@
   justify-content: center;
   gap: 50px;
   border-bottom: 5px solid #e8d8d5;
-  margin-bottom: 50px;
+  margin-bottom: 20px;
 }
 
 .react-tabs__tab-panel--selected {
@@ -107,17 +89,8 @@
     font-size: 55px;
     margin-bottom: 70px;
   }
-  .react-tabs__tab {
-    font-size: 13px;
-  }
+
   .react-tabs__tab-list {
     gap: 1.5vw;
-  }
-}
-
-@media screen and (max-width: 900px) {
-  .coding-page .images img {
-    width: 200px;
-    height: 200px;
   }
 }

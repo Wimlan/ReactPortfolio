@@ -5,10 +5,7 @@
 }
 
 .graphicdesign-page h2 {
-  left: 170px;
-  position: relative;
-  font-family: "Inter-BlackItalic";
-  text-align: left;
+  text-align: center;
   font-size: 70px;
   color: #434343;
   margin-bottom: 20px;
@@ -18,14 +15,16 @@
   font-size: 15px;
   background: #968480;
   color: rgb(255, 255, 255);
-  border-radius: 10px;
+  border-radius: 8px;
   transition: 2s;
-  padding: 3px 10px 3px 10px;
+  padding: 6px 13px 6px 13px;
 }
 
 .graphicdesign-page a:hover {
   transition: 1s;
   background: #d88b79;
+  box-shadow: 0 12px 16px 0 rgba(0, 0, 0, 0.24),
+    0 17px 50px 0 rgba(0, 0, 0, 0.19);
 }
 
 .designsection-one,
@@ -57,13 +56,13 @@
 }
 
 .designsection-one h3 {
-  font-family: "Inter-Black";
+  font-weight: 900;
+  font-style: normal;
   text-align: left;
   margin: 0px;
 }
 
 .designdescription {
-  font-family: "Inter-Regular";
   color: #544c49;
   max-width: 450px;
 }

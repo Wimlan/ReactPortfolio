@@ -13,12 +13,12 @@ function Intro() {
         <div data-aos="fade-right" className="intro-left">
           <img
             width="250px"
-            src="../src/assets/img/wilmaportfolio-logo02.png"
+            src="../assets/img/wilmaportfolio-logo02.png"
             alt="logo"
           />
           <h2>WILMA YASUDA</h2>
           <h3>
-            UX/UI <span className="coding-color">Web Developing</span>
+            UX/UI <span className="coding-color">Web Developing </span>
             Graphic Design
           </h3>
         </div>

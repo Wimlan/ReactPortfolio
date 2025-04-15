@@ -1,4 +1,4 @@
-import Lightbox from "yet-another-react-lightbox";
+import Lightbox, { Slide } from "yet-another-react-lightbox";
 import { useState } from "react";
 import { slides } from "./assets/data";
 import "yet-another-react-lightbox/styles.css";
@@ -26,7 +26,6 @@ function Gallery() {
         data={slides}
         onClick={(currentIndex: number) => setIndex(currentIndex)}
       />
-
       <Lightbox
         plugins={[Captions, Fullscreen, Thumbnails, Zoom]}
         captions={{
@@ -39,7 +38,11 @@ function Gallery() {
         index={index}
         open={index >= 0}
         close={() => setIndex(-1)}
-        slides={slides}
+        slides={slides.map((slide) => ({
+          src: slide.src,
+          title: slide.title,
+          description: slide.description,
+        })) as Array<Slide>}
       />
     </div>
   );

@@ -3,6 +3,7 @@ import { FC } from "react";
 interface ImagesProps {
   //same as in gallery-images
   data: {
+    preview: string;
     src: string;
     title: string;
     description: string;

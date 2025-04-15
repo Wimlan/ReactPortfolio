@@ -37,7 +37,7 @@ function Webdesign() {
             className="brandimage"
             width="580px"
             height="220"
-            src="../src/assets/img/toddlerknit-brandimage.jpg"
+            src="../assets/img/toddlerknit-brandimage.jpg"
             alt="brandimage"
           />
           <div data-aos="fade-left" className="webdescription">
@@ -67,21 +67,23 @@ function Webdesign() {
         </div>
         <div className="read-more">
           <p>Read more about the creation of ToddlerKnit below:</p>
-          <a href="https://www.linkedin.com/pulse/uxd-journey-user-research-part-1-wilma-yasuda/">
-            UX Design Articles
-          </a>
+          <div className="flexbox">
+            <a href="https://www.linkedin.com/pulse/uxd-journey-user-research-part-1-wilma-yasuda/">
+              UX Design Articles
+            </a>
 
-          <a href="https://www.linkedin.com/pulse/toddlerknit-project-visual-concept-wilma-yasuda/">
-            Visual Concept/Brand Image
-          </a>
+            <a href="https://www.linkedin.com/pulse/toddlerknit-project-visual-concept-wilma-yasuda/">
+              Visual Concept/Brand Image
+            </a>
 
-          <a href="https://www.linkedin.com/pulse/toddlerknit-project-mobile-prototype-wilma-yasuda/">
-            Mobile Prototype
-          </a>
+            <a href="https://www.linkedin.com/pulse/toddlerknit-project-mobile-prototype-wilma-yasuda/">
+              Mobile Prototype
+            </a>
 
-          <a href="https://www.linkedin.com/pulse/toddlerknit-project-desktop-prototype-logo-design-wilma-yasuda/">
-            Desktop Prototype
-          </a>
+            <a href="https://www.linkedin.com/pulse/toddlerknit-project-desktop-prototype-logo-design-wilma-yasuda/">
+              Desktop Prototype
+            </a>
+          </div>
         </div>
         <Images
           data={webslides}

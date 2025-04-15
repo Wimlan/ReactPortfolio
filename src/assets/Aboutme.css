@@ -3,7 +3,7 @@
   display: flex;
   gap: 5vw;
   justify-content: center;
-  align-items: start;
+  align-items: end;
 }
 
 .aboutme-page img {
@@ -14,13 +14,7 @@
   object-fit: cover;
 }
 
-.description {
-  position: relative;
-  top: 50px;
-}
-
 .description h2 {
-  font-family: "Inter-BlackItalic";
   font-size: 70px;
   margin: 0px;
   line-height: 0.8em;
@@ -28,15 +22,14 @@
 }
 
 .description h3 {
-  font-family: "Inter-Black";
+  font-weight: 900;
+  font-style: normal;
   font-size: 30px;
   margin: 0px 0 20px 0px;
   color: #968480;
-  font-style: italic;
+  text-align: left;
 }
 .description p {
-  font-family: "Inter-Regular";
-  font-size: 16px;
   margin: 0px;
   color: #e8d8d5;
   max-width: 450px;
@@ -54,6 +47,10 @@
   .aboutme-page img {
     width: 20rem;
     height: 20rem;
+  }
+
+  .description h3 {
+    text-align: center;
   }
   .description h2 {
     font-size: 60px;
