@@ -49,7 +49,7 @@ function Coding() {
               Web developing has been an interest of mine for many years. I took
               the first steps to shifting my career to web developing in 2022,
               including taking two university courses. I have now been doing it
-              professionally for about 3 years.
+              professionally for over 2 years.
             </p>
 
             <h3>University courses</h3>
@@ -97,8 +97,8 @@ function Coding() {
               just to get the HTML elements on the page where I could see them.
               I also styled it simply with CSS to make it look structurally
               closer to the final product. The first parts of the page I added
-              was the header and footer. I wanted to keep them visible at all
-              times, mostly because they would affect the balance of the design
+              was the header and footer. Since they were to be visible at all
+              times, they would later come to affect the balance of the design
               in between.
               <br /> <br />
               After I had a base structure, I added images as well as
@@ -118,7 +118,7 @@ function Coding() {
               time left over for adding more advanced functions or further
               change the design if I so wanted. For example, one function that I
               decided to add later was the fade-in effect for a more dynamic
-              page.
+              page, and an accordion to hide some of the text.
             </p>
             <Images
               data={thisprojectslide}
@@ -164,8 +164,7 @@ function Coding() {
               In 2024, when my former company One Peace ltd. approached their
               20th anniversary, I was asked by the anniversary project team to
               create a page showcasing the event that was going to be held in
-              April 2025. The prototypes as well as the finished page can be
-              found below(the webpage is in Japanese). <br />
+              April 2025. The prototypes can be found below. <br />
               <br />I programmed the page by myself from scratch using HTML5,
               CSS and Javascript. Afterwards the code was sent to a colleague
               for feedback. Me and this colleague were the only two people with
@@ -178,17 +177,6 @@ function Coding() {
               to be updated afterhand. Therefore, even though the general design
               style is the same, the details and structure of the page has
               changed in several places.
-              <br />
-              <br />
-              Since the event was going to be held in April, they wanted to have
-              spring/summer feeling to the event. They also sent me images of
-              flowers, curtains, old keys/books, as well wooden doors. All this
-              helped me decide on three keywords: light, elegant, and antique. I
-              then designed the page with soft colors while trying to keep that
-              antique feeling in terms of shapes - although many of the shapes
-              were later changed to simpler ones during coding as more details
-              were added and design changes were made for readability(such as
-              adding popup buttons to the Event Content section).
             </p>
             <br />
             {/* <a href="https://www.rakuten.ne.jp/gold/styleformom/kikaku/20th-anniversary-rakuten.html">

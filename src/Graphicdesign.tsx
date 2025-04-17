@@ -22,7 +22,8 @@ function Graphicdesign() {
             </Accordion.Header>
             <Accordion.Body>
               The way I do this is to ask as many questions as possible. What is
-              the concept? Brand image? Target? Purpose? etc.
+              the concept? Brand image? Target? Purpose? etc. If there is User
+              Research available, great!
             </Accordion.Body>
           </Accordion.Item>
           <Accordion.Item eventKey="1">

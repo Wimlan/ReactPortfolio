@@ -9,23 +9,22 @@ function Aboutme() {
           <h2>About Me</h2>
           <h3>Wilma Yasuda</h3>
           <p>
-            I am a Graphic Designer/UX/UI Designer/Web Developer based in
+            I am a Graphic Designer/ UX/UI Designer/ Web Developer based in
             Gothenburg, Sweden, who has experience living and working in Japan
             for 14 years.
             <br />
             <br />
             I have been working as a Graphic Designer professionally since 2018,
-            and as a UX/UI Designer/Web Developer since 2022, but I have been a
-            creative person my whole life.
+            and as a UX/UI Designer/ Web Developer since 2022.
             <br />
             <br />
             For design I work mostly with Adobe programs such as Photoshop,
             Illustrator or InDesign. I also commonly work with Figma for web
             design.
             <br /> <br />
-            As a front-end developer, the most commonly used languages are
-            HTML5, CSS, and Javascript. I also have experience using react.js as
-            well as C#.
+            As a Web Developer, the languages I most commonly use are HTML5,
+            CSS, and Javascript. I also have experience using react.js as well
+            as C#.
           </p>
         </div>
         <img
