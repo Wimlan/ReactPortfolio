@@ -89,7 +89,11 @@ function Coding() {
               was the difference in how the code was structured. It took some
               time to get properly used to, especially understanding JSX and how
               to write it. In several ways the writing is different from how one
-              would usually write both HTML and Javascript.
+              would usually write both HTML and Javascript. Another key learning
+              point in this project was understanding how asset handling,
+              particularly images, works within the React build process. I
+              discovered the importance of correctly importing images to ensure
+              they were included and displayed in the final build.
               <br />
               <br />
               After I had created the brand image, logo, as well as the design
