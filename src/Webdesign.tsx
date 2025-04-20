@@ -42,12 +42,12 @@ function Webdesign() {
           />
           <div data-aos="fade-left" className="webdescription">
             <p>
-              Considering that the products are knitted items with the target
-              user being Swedish parents, an outdoor fall and winter setting
-              felt quite natural to me. Sweden is a country with long winters
-              and below zero degree weather. Most children play and move around
-              all day, often outside, therefore it is important to show that
-              these clothes are of good enough quality that they can stand
+              I imagined this site to sell knitted items with the target user
+              being Swedish parents. Therefore an outdoor fall and winter
+              setting felt quite natural to me. Sweden is a country with long
+              winters and below zero degree weather. Most children play and move
+              around all day, often outside, therefore it is important to show
+              that these clothes are of good enough quality that they can stand
               tougher conditions. Not only by text, but through pictures as
               well. <br />
               <br />
