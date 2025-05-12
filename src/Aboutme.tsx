@@ -14,10 +14,6 @@ function Aboutme() {
             for 14 years.
             <br />
             <br />
-            I have been working as a Graphic Designer professionally since 2018,
-            and as a UX/UI Designer/ Web Developer since 2022.
-            <br />
-            <br />
             For design I work mostly with Adobe programs such as Photoshop,
             Illustrator or InDesign. I also commonly work with Figma for web
             design.

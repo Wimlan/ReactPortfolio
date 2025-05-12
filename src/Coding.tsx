@@ -46,10 +46,7 @@ function Coding() {
 
           <TabPanel>
             <p>
-              Web developing has been an interest of mine for many years. I took
-              the first steps to shifting my career to web developing in 2022,
-              including taking two university courses. I have now been doing it
-              professionally for over 2 years.
+              Web developing has been an interest of mine for many years. With a background in design, I have steadily been working to incorporate wed developing as a part of my career.
             </p>
 
             <h3>University courses</h3>
@@ -63,17 +60,20 @@ function Coding() {
               Technology(Luleå Tekniska Universitet)
             </p>
 
-            <h3>Skill list</h3>
+<h3>Skill list</h3>
 
-            <p>HTML5</p>
-
-            <p>CSS</p>
-
-            <p>JavaScript</p>
-
-            <p>React.js</p>
-
-            <p>C#</p>
+<p>HTML5</p>
+<p>CSS (Sass)</p>
+<p>JavaScript (Modern ES6+)</p>
+<p>React.js</p>
+<p>Next.js</p>
+<p>DOM Manipulation</p>
+<p>Version Control (Git)</p>
+<p>Build Tools (Vite)</p>
+<p>RESTful APIs</p>
+<p>C# / .NET (Basic knowledge)</p>
+<p>Performance Optimization</p>
+<p>Code Testing</p>
           </TabPanel>
           <TabPanel>
             <h3>Programming my Portfolio website</h3> <br />
@@ -154,7 +154,7 @@ function Coding() {
             <br />
             <p>
               I both designed and coded the page for the band Dream Villiage,
-              using my 7 years in design and 3 years in front-end coding to
+              using my years in design and front-end coding to
               create a page that represents Dream Villiage's mystical yet
               emotionally intense music.
             </p>
