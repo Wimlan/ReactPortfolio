@@ -17,7 +17,7 @@ function Aboutme() {
             CSS(Sass), and Javascript. I also have experience using react.js as
             well as C#.
             <br /> <br />I am currently looking for LIA(work practice) fall
-            2027, as well as spring 2028. Feel free to contact me if you know
+            2026, as well as spring 2027. Feel free to contact me if you know
             anyone interested in having a Frontend student contribute to their
             company.
           </p>
