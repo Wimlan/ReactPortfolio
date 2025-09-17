@@ -10,15 +10,15 @@ function Footer() {
           </li>
 
           <li>
+            <a href="#programming">Web Dev</a>
+          </li>
+
+          <li>
             <a href="#graphicdesign">Graphic Design</a>
           </li>
 
           <li>
             <a href="#webdesign">UX/UI</a>
-          </li>
-
-          <li>
-            <a href="#programming">Web Dev</a>
           </li>
 
           <li>

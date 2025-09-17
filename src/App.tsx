@@ -17,10 +17,10 @@ function App() {
         <Intro />
         <Aboutme />
         <div className="background-pink">
+          <Coding />
           <Graphicdesign />
           <Gallery />
           <Webdesign />
-          <Coding />
         </div>
         <Contact />
       </div>

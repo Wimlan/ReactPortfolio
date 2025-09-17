@@ -23,7 +23,7 @@ function Coding() {
       <div id="programming"></div>
       <section className="coding-page">
         <h2 data-aos="fade-left" className="coding-title">
-          Web Developing
+          Web Development
         </h2>
         <Tabs>
           <TabList>
@@ -46,34 +46,44 @@ function Coding() {
 
           <TabPanel>
             <p>
-              Web developing has been an interest of mine for many years. With a background in design, I have steadily been working to incorporate wed developing as a part of my career.
+              With a few years background in Frontend and as a current tech
+              student, I am steadily working on shifting my career to one in Web
+              Development.
+            </p>
+            <h3>Education</h3>
+            <p>
+              <strong>Current:</strong>
+            </p>
+            <p>
+              <em>Frontend Development</em> <br />
+              at IT-Högskolan <br />
+              (2 year education including work practice)
             </p>
 
-            <h3>University courses</h3>
-
+            <p>
+              <strong>Finished:</strong>
+            </p>
             <p>
               <em>Web Development with HTML and CSS</em> <br /> at University
-              West(Högskolan Väst)
+              West
+              <br />
+              (Course)
             </p>
             <p>
               <em>Basic Programming(C#)</em> <br /> at Luleå University of
-              Technology(Luleå Tekniska Universitet)
+              Technology
+              <br />
+              (Course)
             </p>
-
-<h3>Skill list</h3>
-
-<p>HTML5</p>
-<p>CSS (Sass)</p>
-<p>JavaScript (Modern ES6+)</p>
-<p>React.js</p>
-<p>Next.js</p>
-<p>DOM Manipulation</p>
-<p>Version Control (Git)</p>
-<p>Build Tools (Vite)</p>
-<p>RESTful APIs</p>
-<p>C# / .NET (Basic knowledge)</p>
-<p>Performance Optimization</p>
-<p>Code Testing</p>
+            <h3>Skill list</h3>
+            <p>HTML5</p>
+            <p>CSS (Sass)</p>
+            <p>JavaScript (Modern ES6+)</p>
+            <p>React.js</p>
+            <p>Version Control (Git)</p>
+            <p>Build Tools (Vite)</p>
+            <p>C# / .NET (Basic knowledge)</p>
+            <p>Frontend Performance Optimization</p>
           </TabPanel>
           <TabPanel>
             <h3>Programming my Portfolio website</h3> <br />
@@ -154,9 +164,9 @@ function Coding() {
             <br />
             <p>
               I both designed and coded the page for the band Dream Villiage,
-              using my years in design and front-end coding to
-              create a page that represents Dream Villiage's mystical yet
-              emotionally intense music.
+              using my years in design and front-end coding to create a page
+              that represents Dream Villiage's mystical yet emotionally intense
+              music.
             </p>
             <br />
             <br />
