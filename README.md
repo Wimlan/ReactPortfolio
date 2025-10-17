@@ -2,7 +2,7 @@ This is a portfolio designed by me and built in react.
 
 Page link: https://wilmayasuda.se
 
-![alt text](src/assets/img/black-logo-transparent.png)
+![alt text](src/assets/img/portfolio-design-thumbnail.jpg)
 
 About the creation of this page:
 
