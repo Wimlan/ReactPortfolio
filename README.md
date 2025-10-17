@@ -2,6 +2,8 @@ This is a portfolio designed by me and built in react.
 
 Page link: https://wilmayasuda.se
 
+![alt text](src/assets/img/black-logo-transparent.png)
+
 About the creation of this page:
 
 The reason I choose to use react for this project is because there are several advantages to using it, such as faster load times, smoother user interaction, and more responsive user interface, as well as reusable components and improved SEO.
