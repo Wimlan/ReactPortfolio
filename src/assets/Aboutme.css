@@ -1,5 +1,5 @@
 .aboutme-page {
-  padding: 200px 0 250px 0;
+  padding: 200px 0 100px 0;
   display: flex;
   gap: 5vw;
   justify-content: center;
@@ -38,7 +38,7 @@
 /*1200px以下*/
 @media screen and (max-width: 940px) {
   .aboutme-page {
-    padding: 150px 0 200px 0;
+    padding: 68px 0 24px 0;
     gap: 0vw;
     flex-direction: column-reverse;
     align-items: center;

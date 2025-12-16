@@ -9,17 +9,14 @@ function Aboutme() {
           <h2>About Me</h2>
           <h3>Wilma Yasuda</h3>
           <p>
-            I'm a Frontend student at IT-Högskolan in Gothenburg. I have also
-            former experience working with Frontend development/ Graphic Design/
-            UX/UI Design in Japan, where I lived for 14 years.
+            I'm a fullstack student with focus on frontend at IT-Högskolan in
+            Gothenburg. Before I became a student I worked with frontend
+            development, graphic design, and UX/UI design in Japan for about 7
+            years.
             <br /> <br />
-            As a Web Developer, the languages I most commonly use are HTML5,
-            CSS(Sass), and Javascript. I also have experience using react.js as
-            well as C#.
-            <br /> <br />I am currently looking for LIA(work practice) fall
-            2026, as well as spring 2027. Feel free to contact me if you know
-            anyone interested in having a Frontend student contribute to their
-            company.
+            As a web developer, the languages I most commonly use are HTML5,
+            CSS(Sass), javascript, and typescript. I also have experience using
+            C#.
           </p>
         </div>
         <img

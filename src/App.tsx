@@ -3,10 +3,9 @@ import Footer from "./Footer";
 import Header from "./Header";
 import Intro from "./Intropage";
 import Aboutme from "./Aboutme";
-import Graphicdesign from "./Graphicdesign";
-import Gallery from "./Gallery";
-import Webdesign from "./Webdesign";
 import Coding from "./Coding";
+import Projects from "./Projects";
+import Webdesign from "./Webdesign";
 import Contact from "./Contact";
 
 function App() {
@@ -16,10 +15,9 @@ function App() {
       <div className="overflowhidden">
         <Intro />
         <Aboutme />
+        <Coding />
         <div className="background-pink">
-          <Coding />
-          <Graphicdesign />
-          <Gallery />
+          <Projects />
           <Webdesign />
         </div>
         <Contact />

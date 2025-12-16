@@ -10,12 +10,12 @@ function Footer() {
           </li>
 
           <li>
-            <a href="#programming">Web Dev</a>
+            <a href="#projects">Projects</a>
           </li>
 
-          <li>
+          {/*    <li>
             <a href="#graphicdesign">Graphic Design</a>
-          </li>
+          </li> */}
 
           <li>
             <a href="#webdesign">UX/UI</a>

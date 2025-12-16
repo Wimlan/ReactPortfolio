@@ -24,11 +24,11 @@ function Webdesign() {
         <div data-aos="zoom-in" className="web-design-intro">
           <h2>UX/UI</h2>
           <h3>Toddlerknit(mock-project)</h3>
-          <p>
+          {/*  <p>
             The design process of this mock-project is very similar <br />
             to the design process for my graphic design projects.
           </p>
-          <a href="#graphicdesign">My design process</a>
+          <a href="#graphicdesign">My design process</a> */}
         </div>
         {/* <button onClick={() => setOpen(true)}>Open Lightbox</button>--!> */}
         <div className="websection-one">
@@ -103,10 +103,10 @@ function Webdesign() {
           slides={webslides}
         />
 
-        <a id="otherprojects" href="#programming">
+        {/*    <a id="otherprojects" href="#programming">
           See other Web Design Projects <br />
           (that I also coded)
-        </a>
+        </a> */}
       </div>
     </>
   );
