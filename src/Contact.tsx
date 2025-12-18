@@ -13,7 +13,7 @@ function Contact() {
           <a href="mailto:wilma.yasuda@gmail.com">
             <p className="email">wilma.yasuda@gmail.com</p>
           </a>
-          <a href="https://www.linkedin.com/in/wilmayasuda/">
+          <a target="_blank" href="https://www.linkedin.com/in/wilmayasuda/">
             <p>Linkedin</p>
           </a>
         </div>
@@ -22,5 +22,5 @@ function Contact() {
     </>
   );
 }
- 
+
 export default Contact;

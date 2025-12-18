@@ -23,7 +23,7 @@ function Webdesign() {
       <div className="webdesign-page">
         <div data-aos="zoom-in" className="web-design-intro">
           <h2>UX/UI</h2>
-          <h3>Toddlerknit(mock-project)</h3>
+          <h3>Toddlerknit (mock-project)</h3>
           {/*  <p>
             The design process of this mock-project is very similar <br />
             to the design process for my graphic design projects.
@@ -42,7 +42,7 @@ function Webdesign() {
           />
           <div data-aos="fade-left" className="webdescription">
             <p>
-              I imagined this site to sell knitted items with the target user
+              I designed this site to sell knitted items with the target user
               being Swedish parents. Therefore an outdoor fall and winter
               setting felt quite natural to me. Sweden is a country with long
               winters and below zero degree weather. Most children play and move
@@ -54,13 +54,13 @@ function Webdesign() {
               As backed up by the User Research I conducted, it appears that
               many parents nowadays prefers more muted colors for their kids
               clothes, as opposed to vivid baby colors. That combined with the
-              outdoor setting gave me the idea to make the key word for this
+              outdoor setting gave me the idea to make the keyword for this
               brand Natural. Therefore I added to the visual concept a selection
               of natural colors that I believe could be found in a fall or
               winter outdoor setting. <br />
               <br />
               Lastly, I added the rectangle, triangle, and circle shape to give
-              the visuals a sense of playfulness and fun that I think is
+              the visuals that sense of playfulness and fun that I think is
               important for a children's brand. <br />
             </p>
           </div>
@@ -68,19 +68,31 @@ function Webdesign() {
         <div className="read-more">
           <p>Read more about the creation of ToddlerKnit below:</p>
           <div className="flexbox">
-            <a href="https://www.linkedin.com/pulse/uxd-journey-user-research-part-1-wilma-yasuda/">
+            <a
+              target="_blank"
+              href="https://www.linkedin.com/pulse/uxd-journey-user-research-part-1-wilma-yasuda/"
+            >
               UX Design Articles
             </a>
 
-            <a href="https://www.linkedin.com/pulse/toddlerknit-project-visual-concept-wilma-yasuda/">
+            <a
+              target="_blank"
+              href="https://www.linkedin.com/pulse/toddlerknit-project-visual-concept-wilma-yasuda/"
+            >
               Visual Concept/Brand Image
             </a>
 
-            <a href="https://www.linkedin.com/pulse/toddlerknit-project-mobile-prototype-wilma-yasuda/">
+            <a
+              target="_blank"
+              href="https://www.linkedin.com/pulse/toddlerknit-project-mobile-prototype-wilma-yasuda/"
+            >
               Mobile Prototype
             </a>
 
-            <a href="https://www.linkedin.com/pulse/toddlerknit-project-desktop-prototype-logo-design-wilma-yasuda/">
+            <a
+              target="_blank"
+              href="https://www.linkedin.com/pulse/toddlerknit-project-desktop-prototype-logo-design-wilma-yasuda/"
+            >
               Desktop Prototype
             </a>
           </div>

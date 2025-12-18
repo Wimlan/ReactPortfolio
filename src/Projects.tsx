@@ -7,7 +7,7 @@ const projects = [
     languages: ["Javascript", "HTML5", "Sass"],
     img: "assets/img/monsterprojectsimg.jpg",
     description:
-      "Won shared first place for the Junior Dev Sverige's halloween competition 2025. This simple but fun twist on the classic rock paper scissor game, challenges the player to survive against monsters in a style reminiscent of text-based RPGs.",
+      "Won shared first place for the Junior Dev Sverige's Halloween competition 2025. This simple but fun twist on the classic Rock Paper Scissors game, challenges the player to survive against monsters in a style reminiscent of text-based RPGs.",
   },
   {
     title: "Dream Villiage",
@@ -15,7 +15,7 @@ const projects = [
     languages: ["Javascript", "HTML5", "CSS"],
     img: "assets/img/dreamvilliage.jpg",
     description:
-      "Designed and developed a modern, responsive homepage for the band Dream Villiage to establish the band's online presence and engage fans.Created the user interface design in Figma, focusing on brand identity and user-friendly navigation.",
+      "Designed and developed a modern, responsive homepage for the band Dream Villiage to establish their online presence and engage fans. Created the user interface design in Figma, focusing on brand identity and user-friendly navigation.",
   },
 ];
 
@@ -24,18 +24,18 @@ function Projects() {
     <>
       <div id="projects"></div>
       <div data-aos="fade-left" id="projects-page">
-        <h2>Project List</h2>
+        <h2>Projects</h2>
 
         <div id="project-list">
-          {/* Här loopar vi igenom projekten och skapar HTML för varje */}
           {projects.map((project, index) => (
             <div key={index} className="project-card">
               <h3>
-                <a href={project.link}>{project.title}</a>
+                <a target="_blank" href={project.link}>
+                  {project.title}
+                </a>
                 {" >"}
               </h3>
 
-              {/* Loopa igenom språken för just detta projekt */}
               <h4>
                 {"["}
                 {project.languages.join(", ")}

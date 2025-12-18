@@ -1,4 +1,5 @@
 import { FC } from "react";
+import "./assets/Gallery.css";
 
 interface ImagesProps {
   //same as in gallery-images

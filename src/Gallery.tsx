@@ -11,7 +11,6 @@ import {
 } from "yet-another-react-lightbox/plugins";
 import "yet-another-react-lightbox/plugins/thumbnails.css";
 import Images from "./Images";
-import "./assets/Gallery.css";
 
 function Gallery() {
   // const [open, setOpen] = useState<boolean>(false);
@@ -38,11 +37,13 @@ function Gallery() {
         index={index}
         open={index >= 0}
         close={() => setIndex(-1)}
-        slides={slides.map((slide) => ({
-          src: slide.src,
-          title: slide.title,
-          description: slide.description,
-        })) as Array<Slide>}
+        slides={
+          slides.map((slide) => ({
+            src: slide.src,
+            title: slide.title,
+            description: slide.description,
+          })) as Array<Slide>
+        }
       />
     </div>
   );

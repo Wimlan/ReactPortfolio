@@ -15,7 +15,7 @@ function Aboutme() {
             years.
             <br /> <br />
             As a web developer, the languages I most commonly use are HTML5,
-            CSS(Sass), javascript, and typescript. I also have experience using
+            CSS(Sass), Javascript, and Typescript. I also have experience using
             C#.
           </p>
         </div>

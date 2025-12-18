@@ -9,24 +9,24 @@ function Coding() {
         <Tabs>
           <TabList>
             <Tab>Background</Tab>
-            <Tab>Skills/Education</Tab>
+            <Tab>Skill List</Tab>
           </TabList>
 
           <TabPanel>
             <h3>Work experience</h3>
             <p>
               <strong>2022.05 - 2025.04</strong> <br />{" "}
-              <em>Frontend developer, Webdesigner</em> <br /> ONE PEACE Ltd.(
-              Hyogo, Japan)
+              <em>Frontend developer, Webdesigner</em> <br /> ONEPEACE Co., Ltd.
+              (Hyogo, Japan)
             </p>
             <h3>Education</h3>
             <p>
-              <h2>Current:</h2>
+              <h2>Ongoing:</h2>
             </p>
             <p>
               <em>Frontend Development</em> <br />
-              at IT-Högskolan(Göteborg, Sweden) <br />
-              (2 year education including work practice)
+              at IT-Högskolan (Gothenburg, Sweden) <br />
+              (2 year education including an internship)
             </p>
 
             <p>
@@ -48,7 +48,7 @@ function Coding() {
           <TabPanel>
             <h3>Skills/Educational Content</h3>
             <h2>Languages</h2>
-            <p>JavaScript, PHP, HTML5, CSS (Sass), Typescript, C#</p>
+            <p>Javascript, PHP, HTML5, CSS(Sass), Typescript, C#</p>
             <h2>Frontend frameworks</h2>
             <p>React, Vue.js, Node.js</p>
             <h2>Backend technology</h2>
@@ -57,7 +57,7 @@ function Coding() {
             <p>SQL</p>
             <h2>Content Management</h2>
             <p>CMS</p>
-            <h2>UI/UX & Accessibility</h2>
+            <h2>UX/UI & Accessibility</h2>
             <p>Figma, User-Centered Design, WCAG</p>
             <h2>Tools & Processes</h2>
             <p>Git, Scrum</p>
